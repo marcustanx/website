@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 name: Marcus Tan's Portfolio
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
